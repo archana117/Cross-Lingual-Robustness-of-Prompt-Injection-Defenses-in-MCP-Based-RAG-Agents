@@ -1,0 +1,8 @@
+Cloud computing is the on-demand delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet ("the cloud").
+
+Cloud service models are broadly divided into three main categories:
+1. Infrastructure as a Service (IaaS): Provides raw compute, storage, and networking hardware (e.g. AWS EC2, Azure VMs).
+2. Platform as a Service (PaaS): Provides hardware plus software development frameworks and database engines (e.g. Google App Engine, Heroku).
+3. Software as a Service (SaaS): Delivers complete software applications over the web (e.g. Microsoft 365, Salesforce).
+
+Cloud deployment models include public cloud, private cloud, hybrid cloud, and multi-cloud architectures. Key benefits include elastic scalability, pay-as-you-go pricing, high availability, and global infrastructure footprint.

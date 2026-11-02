@@ -1,0 +1,7 @@
+A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional storage space and slower write operations.
+
+In relational database management systems (RDBMS) such as PostgreSQL, MySQL, and Oracle, database indexes are commonly implemented using B-trees, B+ trees, hash tables, or inverted indexes.
+
+A database index works similarly to the index at the back of a book. Instead of scanning an entire table row by row (a full table scan), the database query engine uses the index to quickly locate specific records by key values.
+
+Proper index design is critical for query optimization. However, maintaining too many indexes can degrade write performance because index entries must be updated whenever rows are inserted, updated, or deleted.

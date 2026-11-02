@@ -1,0 +1,40 @@
+==================================================
+CUSTOM MULTILINGUAL DATASET SUMMARY REPORT
+Cross-Lingual Robustness of Prompt-Injection Defenses in MCP-Based RAG Agents
+==================================================
+Total records: 2000
+Total scenarios: 250
+
+Language distribution:
+  English: 500
+  Hindi: 500
+  Telugu: 500
+  Telugu-English: 500
+
+Label distribution:
+  SAFE: 1000
+  ATTACK: 1000
+
+Attack-type distribution (ATTACK records):
+  confidential_information_disclosure: 100
+  context_manipulation: 100
+  fake_authority: 100
+  ignore_previous_instruction: 100
+  instruction_override: 100
+  malicious_action: 100
+  misleading_document_instruction: 100
+  system_prompt_extraction: 100
+  task_redirection: 100
+  tool_use_manipulation: 100
+
+Scenario Split Breakdown (by scenario_id):
+  Train:      175 scenarios (1400 records, 70.0%)
+  Validation: 38 scenarios (304 records, 15.2%)
+  Test:       37 scenarios (296 records, 14.8%)
+
+Data Integrity Metrics:
+  Duplicate record IDs: 0
+  Missing required values: 0
+  Scenario leakage between splits: 0
+  Validation status: PASS (24/24 checks passed)
+==================================================

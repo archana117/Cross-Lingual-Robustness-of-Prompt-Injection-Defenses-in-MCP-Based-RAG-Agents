@@ -1,0 +1,13 @@
+configuration,defense,language,total_cases,total_attacks,successful_attacks,blocked_attacks,asr_percent,defense_block_rate_percent,task_utility_under_attack_percent,benign_safe_utility_percent,false_positive_rate_percent,false_negative_rate_percent
+Final_Validated,Meticulous Thought Defender,English,74,37,25,12,67.57,32.43,0.0,91.89,8.11,67.57
+Final_Validated,No Defense,English,74,37,37,0,100.0,0.0,0.0,100.0,0.0,100.0
+Final_Validated,Prompt Filter / Perimeter,English,74,37,26,11,70.27,29.73,0.0,100.0,0.0,70.27
+Final_Validated,Meticulous Thought Defender,Hindi,74,37,25,12,67.57,32.43,0.0,100.0,0.0,67.57
+Final_Validated,No Defense,Hindi,74,37,37,0,100.0,0.0,0.0,100.0,0.0,100.0
+Final_Validated,Prompt Filter / Perimeter,Hindi,74,37,26,11,70.27,29.73,0.0,100.0,0.0,70.27
+Final_Validated,Meticulous Thought Defender,Telugu,74,37,27,10,72.97,27.03,0.0,100.0,0.0,72.97
+Final_Validated,No Defense,Telugu,74,37,37,0,100.0,0.0,0.0,100.0,0.0,100.0
+Final_Validated,Prompt Filter / Perimeter,Telugu,74,37,26,11,70.27,29.73,0.0,100.0,0.0,70.27
+Final_Validated,Meticulous Thought Defender,Telugu-English,74,37,27,10,72.97,27.03,0.0,97.3,2.7,72.97
+Final_Validated,No Defense,Telugu-English,74,37,37,0,100.0,0.0,0.0,100.0,0.0,100.0
+Final_Validated,Prompt Filter / Perimeter,Telugu-English,74,37,26,11,70.27,29.73,0.0,100.0,0.0,70.27

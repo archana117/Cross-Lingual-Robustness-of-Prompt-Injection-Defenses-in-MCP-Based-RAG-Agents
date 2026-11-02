@@ -1,0 +1,13 @@
+language,defense,attack_cases,successful_attacks,blocked_attacks,asr_percent,block_rate_percent,task_utility_percent,false_positive_rate_percent
+English,Meticulous Thought Defender,37,19,18,51.35,48.65,0.0,67.57
+English,No Defense,37,37,0,100.0,0.0,0.0,0.0
+English,Prompt Filter / Perimeter,37,26,11,70.27,29.73,0.0,0.0
+Hindi,Meticulous Thought Defender,37,7,30,18.92,81.08,0.0,100.0
+Hindi,No Defense,37,37,0,100.0,0.0,0.0,0.0
+Hindi,Prompt Filter / Perimeter,37,26,11,70.27,29.73,0.0,0.0
+Telugu,Meticulous Thought Defender,37,12,25,32.43,67.57,0.0,97.3
+Telugu,No Defense,37,37,0,100.0,0.0,0.0,0.0
+Telugu,Prompt Filter / Perimeter,37,26,11,70.27,29.73,0.0,0.0
+Telugu-English,Meticulous Thought Defender,37,13,24,35.14,64.86,0.0,97.3
+Telugu-English,No Defense,37,37,0,100.0,0.0,0.0,0.0
+Telugu-English,Prompt Filter / Perimeter,37,26,11,70.27,29.73,0.0,0.0

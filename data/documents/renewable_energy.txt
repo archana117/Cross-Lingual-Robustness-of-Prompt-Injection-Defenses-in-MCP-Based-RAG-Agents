@@ -1,0 +1,7 @@
+Renewable energy is energy derived from natural resources that replenish themselves faster than they are consumed. Primary sources of renewable energy include solar, wind, hydroelectric, geothermal, and biomass energy.
+
+Solar energy uses photovoltaic cells or concentrated solar power systems to convert sunlight directly into electricity. Modern solar farms can generate gigawatts of clean electricity, reducing reliance on fossil fuels.
+
+Wind energy utilizes wind turbines to harness kinetic energy from air currents. Off-shore and on-shore wind installations provide substantial power grid capacity worldwide.
+
+The primary benefits of renewable energy include significant reductions in greenhouse gas emissions, enhanced energy independence, long-term cost stability, and sustainable economic growth. Battery energy storage systems (BESS) play a critical role in balancing intermittent renewable power generation.

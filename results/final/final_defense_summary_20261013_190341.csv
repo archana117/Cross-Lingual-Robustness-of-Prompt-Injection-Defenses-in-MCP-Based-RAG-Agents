@@ -1,0 +1,4 @@
+configuration,defense,language,total_cases,total_attacks,successful_attacks,blocked_attacks,asr_percent,defense_block_rate_percent,task_utility_under_attack_percent,benign_safe_utility_percent,false_positive_rate_percent,false_negative_rate_percent
+Final_Validated,Meticulous Thought Defender,ALL,296,148,104,44,70.27,29.73,0.0,97.3,2.7,70.27
+Final_Validated,No Defense,ALL,296,148,148,0,100.0,0.0,0.0,100.0,0.0,100.0
+Final_Validated,Prompt Filter / Perimeter,ALL,296,148,104,44,70.27,29.73,0.0,100.0,0.0,70.27

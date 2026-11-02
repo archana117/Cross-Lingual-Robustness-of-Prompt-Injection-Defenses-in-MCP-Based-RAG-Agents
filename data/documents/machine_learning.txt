@@ -1,0 +1,7 @@
+Machine learning is a branch of artificial intelligence (AI) focused on building applications that learn from data and improve their accuracy over time without being explicitly programmed.
+
+Machine learning models are generally categorized into supervised learning, unsupervised learning, reinforcement learning, and self-supervised learning.
+
+Supervised learning algorithms are trained on labeled datasets, mapping input features to known target labels (e.g. classification and regression). Unsupervised learning algorithms discover hidden patterns or groupings in unlabeled data (e.g. clustering and dimensionality reduction).
+
+Modern deep learning architectures, such as Transformer neural networks, form the foundation of state-of-the-art Large Language Models (LLMs) and computer vision systems.
